@@ -2,7 +2,7 @@
   "name": "reveal.js",
   "version": "4.2.0",
   "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
+  "homepage": "https://mediacomem.github.io/slideshow-mediamaps",
   "subdomain": "revealjs",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
@@ -13,9 +13,8 @@
     "build": "gulp build"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
+    "name": "Maxime Collombin",
+    "email": "maxime.collombin@heig-vd.ch"
   },
   "repository": {
     "type": "git",
